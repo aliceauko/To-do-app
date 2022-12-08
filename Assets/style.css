@@ -37,6 +37,7 @@ form button{
     color: black;
     transition: all 0.3s ease;
     padding: 0.5rem;
+    cursor: pointer;
 }
 
 .container{
